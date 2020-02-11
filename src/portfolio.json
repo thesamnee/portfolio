@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Experimental Portfolio",
+        "desc": "Portfolio page using Adobe AE",
+        "link": "https://thesamnee.github.io/new-portfolio/",
+        "img": "../../images/newPortThumb.png",
+        "alt": "portfolio thumbnail"
+    },
+    {
+        "id": 2,
+        "title": "Zelda Battle",
+        "desc": "Fighting game with Jquery",
+        "link": "https://thesamnee.github.io/unit-4-game/",
+        "img": "../../images/2019-10-11 18_42_24-Zelda Battle.png",
+        "alt": "zelda game"
+    },
+    {
+        "id": 3,
+        "title": "Burger Counter",
+        "desc": "Node, Express, Handlebars",
+        "link": "https://murmuring-basin-97255.herokuapp.com/",
+        "img": "../../images/burger.jpg",
+        "alt": "burger"
+    },
+    {
+        "id": 4,
+        "title": "Train Scheduler",
+        "desc": "Momentjs and Bootstrap",
+        "link": "https://thesamnee.github.io/TrainScheduler/",
+        "img": "../../images/2019-11-04 20_32_29-Train Schedule.png",
+        "alt": "train scheduler"
+    },
+    {
+        "id": 5,
+        "title": "Office Trivia",
+        "desc": "Trivia game in Javascript",
+        "link": "https://thesamnee.github.io/TriviaGame/",
+        "img": "../../images/office.jpg",
+        "alt": "office trivia"
+    },
+    {
+        "id": 6,
+        "title": "Gif Generator",
+        "desc": "Gif generator app in Javascript",
+        "link": "https://thesamnee.github.io/GifGenerator/",
+        "img": "../../images/gifApp.jpg",
+        "alt": "gif app"
+    },
+    {
+        "id": 7,
+        "title": "Whether",
+        "desc": "Group project (I did CSS)",
+        "link": "https://wedodge89.github.io/whether/",
+        "img": "../../images/whether.jpg",
+        "alt": "whether"
+    }
+]
