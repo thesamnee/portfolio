@@ -10,14 +10,21 @@ import About from "./components/About/About"
 class App extends Component {
 
   state={
-    clicked: false
+    clicked: false,
+    mainLogoClass: "logoPosition1" ,
+    logoImgClass: "logoImg1"
+  }
+
+  activateLogos = () => {
+    this.state.mainLogoClass === "logoPosition1" ? this.setState({mainLogoClass: "logoPosition2"}) : this.setState({mainLogoClass: "logoPosition1"})
+    this.state.logoImgClass === "logoImg1" ? this.setState({logoImgClass: "logoImg2"}) : this.setState({logoImgClass: "logoImg1"})
   }
 
   render() {
     return (
       <div>
-        <StartButton />
-        <Logos />
+        <StartButton activateLogos={this.activateLogos} />
+        <Logos imgClass={this.state.logoImgClass} mainClass={this.state.mainLogoClass} />
         <About />
         <Portfolio />
       </div>

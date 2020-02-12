@@ -1,6 +1,6 @@
 .port-item-title{
     color: rgb(198, 204, 209);
-    font-size: 2vw;
+    font-size: 4vh;
     margin-bottom: 7vh;
     text-align: center;
     display: block;
@@ -9,7 +9,7 @@
 }
 .port-item-desc{
     color: rgb(198, 204, 209);
-    font-size: 20px;
+    font-size: 3vh;
     text-align: center;
     width: 100%; 
     display: block;
@@ -40,7 +40,7 @@
     white-space: nowrap;
     box-shadow: inset 3px 3px 20px rgb(0, 0, 0), inset -3px -3px 20px rgb(0, 0, 0);
     position: relative;
-    top: 1000px;
+    top: 150vh;
     border-radius: 30px;
 }
 ::-webkit-scrollbar {

@@ -1,10 +1,11 @@
 import React from "react";
 import "./StartButton.css";
 
-const StartButton = () => {
+const StartButton = ({ activateLogos }) => {
+
   return (
     <div class="btnContainer">
-      <div className="buttonDiv">
+      <div className="buttonDiv" onClick={() => activateLogos()}>
         <img className="signature" src="../images/signature.png" alt="sam-nee-signature" />
       </div>
       <div className="insetCircle"></div>

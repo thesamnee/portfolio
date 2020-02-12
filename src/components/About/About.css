@@ -8,9 +8,10 @@
 .aboutTxt{
     color: rgb(207, 207, 207);
     font-family: sans-serif;
-    font-size: 5vh;
+    display: block;
+    font-size: 4vh;
     font-weight: 0;
-    margin: 5vh;
+    margin: 3vw;
     padding: 20px;
 }
 .title{

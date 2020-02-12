@@ -25,6 +25,7 @@
     position: relative;
     top: 35%;
     left: 7%;
+    user-select: none;
 }
 .signature:active{
     transform: translate(3px, 3px);

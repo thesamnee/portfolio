@@ -1,6 +1,14 @@
 [
     {
-        "id": 1,
+        "id": 8,
+        "title": "Come On Guys!",
+        "desc": "*Work In Progress* Scheduler App",
+        "link": "https://ballsout.herokuapp.com/",
+        "img": "../../images/comeonguys.png",
+        "alt": "come on guys"
+    },
+    {
+        "id": 7,
         "title": "Experimental Portfolio",
         "desc": "Portfolio page using Adobe AE",
         "link": "https://thesamnee.github.io/new-portfolio/",
@@ -8,7 +16,7 @@
         "alt": "portfolio thumbnail"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "Zelda Battle",
         "desc": "Fighting game with Jquery",
         "link": "https://thesamnee.github.io/unit-4-game/",
@@ -16,7 +24,7 @@
         "alt": "zelda game"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Burger Counter",
         "desc": "Node, Express, Handlebars",
         "link": "https://murmuring-basin-97255.herokuapp.com/",
@@ -32,7 +40,7 @@
         "alt": "train scheduler"
     },
     {
-        "id": 5,
+        "id": 3,
         "title": "Office Trivia",
         "desc": "Trivia game in Javascript",
         "link": "https://thesamnee.github.io/TriviaGame/",
@@ -40,7 +48,7 @@
         "alt": "office trivia"
     },
     {
-        "id": 6,
+        "id": 2,
         "title": "Gif Generator",
         "desc": "Gif generator app in Javascript",
         "link": "https://thesamnee.github.io/GifGenerator/",
@@ -48,7 +56,7 @@
         "alt": "gif app"
     },
     {
-        "id": 7,
+        "id": 1,
         "title": "Whether",
         "desc": "Group project (I did CSS)",
         "link": "https://wedodge89.github.io/whether/",
