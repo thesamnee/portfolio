@@ -46,6 +46,39 @@
     left: 50%;
     transform: translate(-50%, -50%);  
 }
+.light{
+    width: 30vw;
+    height: 10vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 100%;
+    color: cyan;
+    box-shadow: 3px 0px 100px cyan;
+    opacity: 0;
+    transition: rotate 2s, opacity 2s;
+}
+.light-active{
+    width: 30vw;
+    height: 10vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 100%;
+    color: cyan;
+    box-shadow: 3px 0px 100px cyan;
+    opacity: 1;
+    transition: rotate 2s, opacity 2s;
+
+}
 .btnText{
     text-align: center;
     position: relative;
