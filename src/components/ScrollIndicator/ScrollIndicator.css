@@ -9,9 +9,8 @@
   height: 4rem;
   line-height: 4rem;
   text-align: center;
-  bottom: 0;
   margin-left: -3rem;
-  margin-bottom: 3vh;
+  bottom: 3vh;
   left: 55%;
   animation: bounce 3s infinite;
   transition: opacity 1s;
@@ -27,9 +26,8 @@
   height: 4rem;
   line-height: 4rem;
   text-align: center;
-  bottom: 0;
   margin-left: -3rem;
-  margin-bottom: 3vh;
+  bottom: 3vh;
   left: 55%;
   animation: bounce 3s infinite;
   transition: opacity 1s;
