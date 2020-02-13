@@ -1,0 +1,52 @@
+.arrow::before {
+  content: "╲╱";
+  color: #fff;
+  position: absolute;
+  opacity: 0.8;
+  text-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.5);
+  width: 6rem;
+  font-size: 2rem;
+  height: 4rem;
+  line-height: 4rem;
+  text-align: center;
+  bottom: 0;
+  margin-left: -3rem;
+  left: 55%;
+  animation: bounce 3s infinite;
+  transition: opacity 1s;
+}
+.noArrow::before {
+  content: "╲╱";
+  color: #fff;
+  position: absolute;
+  opacity: 0;
+  text-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.5);
+  width: 6rem;
+  font-size: 2rem;
+  height: 4rem;
+  line-height: 4rem;
+  text-align: center;
+  bottom: 0;
+  margin-left: -3rem;
+  left: 55%;
+  animation: bounce 3s infinite;
+  transition: opacity 1s;
+}
+@keyframes bounce {
+  40% {
+    transform: translateY(-40%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+.noArrow {
+  width: 90%;
+  height: 100vh;
+  position: absolute;
+}
+.arrow {
+  width: 90%;
+  height: 100vh;
+  position: absolute;
+}

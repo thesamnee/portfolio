@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./Portfolio.css";
+import portfolioTitle from "./portfolio.png";
 import portfolioArr from "../../portfolio.json";
 import PortfolioItem from "./PortfolioItem.js";
 
@@ -11,6 +12,9 @@ class Portfolio extends Component {
   render() {
     return (
       <div>
+          <div className="portfolioTitleContainer">
+              <img src={portfolioTitle} alt="portfolio-title" className="portfolioTitle"/>
+          </div>
         <div className="portfolioContainer">
           {this.state.portfolioArr.map(portfolioArr => (
             <PortfolioItem

@@ -1,6 +1,6 @@
 [
     {
-        "id": 8,
+        "id": 9,
         "title": "Come On Guys!",
         "desc": "*Work In Progress* Scheduler App",
         "link": "https://ballsout.herokuapp.com/",
@@ -8,12 +8,20 @@
         "alt": "come on guys"
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Experimental Portfolio",
         "desc": "Portfolio page using Adobe AE",
         "link": "https://thesamnee.github.io/new-portfolio/",
         "img": "../../images/newPortThumb.png",
         "alt": "portfolio thumbnail"
+    },
+    {
+        "id": 7,
+        "title": "Bamazon",
+        "desc": "MySQL and Nodejs",
+        "link": "https://github.com/thesamnee/bamazon",
+        "img": "../../images/bamazon.png",
+        "alt": "bamazon"
     },
     {
         "id": 6,
