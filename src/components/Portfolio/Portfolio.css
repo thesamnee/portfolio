@@ -49,6 +49,7 @@
     border-radius: 30px;
 }
 .portfolioContainer{
+    font-family: 'Quicksand', sans-serif;
     height: 75vh;
     width: 100%;
     overflow-x: scroll;
