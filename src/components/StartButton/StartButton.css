@@ -18,6 +18,7 @@
     z-index: 2;
     transition: box-shadow 3s;
     cursor: pointer;
+    user-select: none;
 }    
 .signature{
     width: 25vw;
