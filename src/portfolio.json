@@ -1,5 +1,13 @@
 [
     {
+        "id": 11,
+        "title": "Clicky Game",
+        "desc": "Memory game built in React",
+        "link": "https://simpsons-clicky-game-sam.herokuapp.com/",
+        "img": "../../images/clicky-game.png",
+        "alt": "memory game"
+    },
+    {
         "id": 10,
         "title": "MongoDB Scraper",
         "desc": "Web scraper using Mongoose",
