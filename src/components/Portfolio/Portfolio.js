@@ -23,6 +23,7 @@ class Portfolio extends Component {
               alt={portfolioArr.alt}
               title={portfolioArr.title}
               desc={portfolioArr.desc}
+              gitLink={portfolioArr.gitLink}
             />
           ))}
         </div>

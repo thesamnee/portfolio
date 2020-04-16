@@ -5,7 +5,8 @@
         "desc": "Memory game built in React",
         "link": "https://simpsons-clicky-game-sam.herokuapp.com/",
         "img": "../../images/clicky-game.png",
-        "alt": "memory game"
+        "alt": "memory game",
+        "gitLink": "https://github.com/thesamnee/react-clicky-game"
     },
     {
         "id": 10,
@@ -13,7 +14,8 @@
         "desc": "Web scraper using Mongoose",
         "link": "https://mongoose-scraper-samnee.herokuapp.com/",
         "img": "../../images/gamespot-scraper.png",
-        "alt": "scraper app"
+        "alt": "scraper app",
+        "gitLink": "https://github.com/thesamnee/mongoose-scraper"
     },
     {
         "id": 9,
@@ -21,7 +23,8 @@
         "desc": "*Work In Progress* Scheduler App",
         "link": "https://comeonguys.herokuapp.com/",
         "img": "../../images/comeonguys.png",
-        "alt": "come on guys"
+        "alt": "come on guys",
+        "gitLink": "https://comeonguys.herokuapp.com/"
     },
     {
         "id": 8,
@@ -29,7 +32,8 @@
         "desc": "Portfolio page using Adobe AE",
         "link": "https://thesamnee.github.io/experimental-portfolio/",
         "img": "../../images/newPortThumb.png",
-        "alt": "portfolio thumbnail"
+        "alt": "portfolio thumbnail",
+        "gitLink": "https://github.com/thesamnee/experimental-portfolio"
     },
     {
         "id": 7,
@@ -37,23 +41,17 @@
         "desc": "MySQL and Nodejs",
         "link": "https://github.com/thesamnee/bamazon",
         "img": "../../images/bamazon.png",
-        "alt": "bamazon"
-    },
+        "alt": "bamazon",
+        "gitLink": "https://github.com/thesamnee/bamazon"
+    }, 
     {
         "id": 6,
         "title": "Zelda Battle",
         "desc": "Fighting game with Jquery",
-        "link": "https://thesamnee.github.io/unit-4-game/",
+        "link": "https://thesamnee.github.io/zelda-fighting-game/",
         "img": "../../images/2019-10-11 18_42_24-Zelda Battle.png",
-        "alt": "zelda game"
-    },
-    {
-        "id": 5,
-        "title": "Burger Counter",
-        "desc": "Node, Express, Handlebars",
-        "link": "https://murmuring-basin-97255.herokuapp.com/",
-        "img": "../../images/burger.jpg",
-        "alt": "burger"
+        "alt": "zelda game",
+        "gitLink": "https://github.com/thesamnee/zelda-fighting-game"
     },
     {
         "id": 4,
@@ -61,7 +59,8 @@
         "desc": "Momentjs and Bootstrap",
         "link": "https://thesamnee.github.io/TrainScheduler/",
         "img": "../../images/2019-11-04 20_32_29-Train Schedule.png",
-        "alt": "train scheduler"
+        "alt": "train scheduler",
+        "gitLink": "https://github.com/thesamnee/TrainScheduler"
     },
     {
         "id": 3,
@@ -69,7 +68,8 @@
         "desc": "Trivia game in Javascript",
         "link": "https://thesamnee.github.io/TriviaGame/",
         "img": "../../images/office.jpg",
-        "alt": "office trivia"
+        "alt": "office trivia",
+        "gitLink": "https://github.com/thesamnee/TriviaGame"
     },
     {
         "id": 2,
@@ -77,7 +77,8 @@
         "desc": "Gif generator app in Javascript",
         "link": "https://thesamnee.github.io/GifGenerator/",
         "img": "../../images/gifApp.jpg",
-        "alt": "gif app"
+        "alt": "gif app",
+        "gitLink": "https://github.com/thesamnee/GifGenerator"
     },
     {
         "id": 1,
@@ -85,6 +86,7 @@
         "desc": "Group project (I did CSS)",
         "link": "https://wedodge89.github.io/whether/",
         "img": "../../images/whether.jpg",
-        "alt": "whether"
+        "alt": "whether",
+        "gitLink": "https://github.com/wedodge89/whether"
     }
 ]

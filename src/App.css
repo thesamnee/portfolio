@@ -6,3 +6,9 @@ a{
     text-emphasis: none;
     text-decoration: none;
 }
+.techSkills{
+    text-align: center;
+    position: relative;
+    top: 100vh;
+    font-size: 4vh;
+}
