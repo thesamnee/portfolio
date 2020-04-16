@@ -9,6 +9,12 @@ a{
 .techSkills{
     text-align: center;
     position: relative;
-    top: 100vh;
-    font-size: 4vh;
+    top: 90vh;
+    font-size: 5vh;
+    color: rgba(255, 255, 255, 0.747);
+    border-bottom: solid 2px rgba(255, 255, 255, 0.795);
+    padding: 3vh;
+    width: 30vh;
+    left: 50%;
+    transform: translate(-50%, 15vw);
 }
