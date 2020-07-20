@@ -1,21 +1,12 @@
 [
     {
-        "id": 11,
+        "id": 10,
         "title": "Clicky Game",
         "desc": "Memory game built in React",
         "link": "https://simpsons-clicky-game-sam.herokuapp.com/",
         "img": "../../images/clicky-game.png",
         "alt": "memory game",
         "gitLink": "https://github.com/thesamnee/react-clicky-game"
-    },
-    {
-        "id": 10,
-        "title": "MongoDB Scraper",
-        "desc": "Web scraper using Mongoose",
-        "link": "https://mongoose-scraper-samnee.herokuapp.com/",
-        "img": "../../images/gamespot-scraper.png",
-        "alt": "scraper app",
-        "gitLink": "https://github.com/thesamnee/mongoose-scraper"
     },
     {
         "id": 9,
